@@ -1,0 +1,12 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(42, 41, 41);
+}
+
+.var {
+  color: white;
+}
+
+.var-description {
+  color: #0ec30e;
+}
